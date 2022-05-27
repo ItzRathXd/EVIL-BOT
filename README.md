@@ -14,7 +14,7 @@ OMFO Gimme a star and follow me
     
     
 ### Noob Developers 
-  <a href="https://t.me/DASHINGLEGEND009"><img src="https://img.shields.io/badge/DASHING%20 LEGEND-Green.svg?style=for-the-badge&logo=Python"></a>
+  <a href="https://t.me/Krishsuperyo"><img src="https://img.shields.io/badge/Piro%20 Krish-Green.svg?style=for-the-badge&logo=Python"></a>
     
     
     
@@ -23,5 +23,5 @@ OMFO Gimme a star and follow me
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DASHINGLEGENDXD/EVIL-BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
 
 ## Join Here 
-[![DASHING LEGEND](https://te.legra.ph/file/2f4c882becf087cb350c2.jpg)](https://telegram.me/ABOUT_DASHING_LEGEND)
+[![Krishsuperyo](https://te.legra.ph/file/2f4c882becf087cb350c2.jpg)](https://telegram.me/ABOUT_DASHING_LEGEND)
 
