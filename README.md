@@ -5,7 +5,7 @@
 
 <h1 align="center"><b>EVIL-BOT</b></h1>
 
-# <p align="center"><a href="https://github.com/Krishsuperyo/EVIL-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=DASHINGLEGENDXD&show_icons=true&theme=dracula&hide_border=true&repo=EVIL-BOT"></a></p>
+# <p align="center"><a href="https://github.com/Krishsuperyo/EVIL-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=Krishsuperyo&show_icons=true&theme=dracula&hide_border=true&repo=EVIL-BOT"></a></p>
 <p align="center">
     
     
