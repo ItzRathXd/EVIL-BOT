@@ -20,7 +20,7 @@ OMFO Gimme a star and follow me
     
 # Deployment
     
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Krishsuperyo/EVIL-BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Krishsuperyo/EVIL-BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="300" height="60"/></a></p>
 
 ## Join Here 
 [![Krishsuperyo](https://te.legra.ph/file/70821e7f98940ac9d27a5.jpg)](https://telegram.me/About_Krishsuperyo)
