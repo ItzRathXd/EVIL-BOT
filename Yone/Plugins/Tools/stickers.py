@@ -762,7 +762,7 @@ Stickers made easy with stickers module!
 *Example:* `/addfsticker` my cool pack`
 """
 
-__mod_name__ = "Stickers"
+__mod_name__ = "Stickers👀"
 
 KANG_HANDLER = DisableAbleCommandHandler(
     ["addsticker", "kang", "steal"], addsticker, pass_args=True, run_async=True)
