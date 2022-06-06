@@ -565,7 +565,7 @@ Examples:
 *What is that health thingy?*
  Come and see [HP System explained](https://t.me/Yone_Updates)
 """
-__mod_name__ = "Infos"
+__mod_name__ = "Infos👲"
 __command_list__ = ["setbio", "bio", "setme", "me", "info"]
 __handlers__ = [
     ID_HANDLER,
