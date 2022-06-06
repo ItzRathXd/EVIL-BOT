@@ -86,5 +86,5 @@ __help__ = """
  ‣ `/tgt`: Get Telegraph Link of Replied Text
 """
 
-__mod_name__ = "Telegraph"
+__mod_name__ = "Telegraph📄"
 
