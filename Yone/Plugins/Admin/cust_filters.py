@@ -629,7 +629,7 @@ doin?
 Check ‣ `/markdownhelp` to know more!
 """
 
-__mod_name__ = "Filters"
+__mod_name__ = "Filters🖇"
 
 
 FILTER_HANDLER = CommandHandler("filter", filters, run_async=True)
