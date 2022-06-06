@@ -456,7 +456,7 @@ def __stats__():
     )
 
 
-__mod_name__ = "BlackList"
+__mod_name__ = "BlackList😤"
 
 
 BLACKLIST_HANDLER = DisableAbleCommandHandler(
