@@ -46,7 +46,7 @@ __help__ = """ You can translate messages on telegram in a simple way
 ‣ `/tr [List of Language Codes]`:- as reply to a long message.
 ‣ `/tl [List of Language Codes]`:- as reply to a long message.
 """
-__mod_name__ = "Translator"
+__mod_name__ = "Translator📞"
  
 TRANSLATE_HANDLER = DisableAbleCommandHandler(["tr", "tl"], totranslate, run_async=True)
  
