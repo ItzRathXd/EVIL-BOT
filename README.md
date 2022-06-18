@@ -1,5 +1,5 @@
 ## Support & Updates 
-<a href="https://t.me/MetraVoid_Support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/LilyBotUpdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/EVIL_X_O_SUPPORT"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/EVIL_BOT_UPDATES"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://youtube.com/channel/UCctlMhmmYBaAX_k4pk4T1QA"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
 
@@ -14,7 +14,7 @@ OMFO Gimme a star and follow me
     
     
 ### Noob Developers 
-  <a href="https://t.me/Krishsuperyo"><img src="https://img.shields.io/badge/Piro%20 Krish-Green.svg?style=for-the-badge&logo=Python"></a>
+  <a href="https://t.me/Ashmit_xD"><img src="https://img.shields.io/badge/ASHMIT%20 xD-Green.svg?style=for-the-badge&logo=Python"></a>
     
     
     
