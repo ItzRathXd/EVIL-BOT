@@ -23,5 +23,5 @@ OMFO Gimme a star and follow me
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Ashmit-OP/EVIL-BOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="300" height="40"/></a></p>
 
 ## Join Here 
-[![ASHMIT](https://te.legra.ph/file/20a50ff24b2a6de87e238.jpg)](https://telegram.me/About_Ashmit)
+[![ASHMIT](https://te.legra.ph/file/20a50ff24b2a6de87e238.jpg)](https://telegram.me/EVIL_BOT_UPDATES)
 
